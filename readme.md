@@ -33,6 +33,8 @@ The RTK device, consisting of a Raspberry Pi, pocket router, and GPS system, cap
   
 ![Project Image](/img/google_earth_view.jpg)
 
+![Project Image](/img/line_draw.png)
+
 ![Project Image](/img/google2.jpg)
 
 ### Applications and Use Cases
